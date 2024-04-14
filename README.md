@@ -1,11 +1,3 @@
-### Olá! 👋
-
-
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando React
-- 📫 Contate-me no email: lacheski1337@gmail.com
-- 😄 ele/dele
-
 <div>
   <a href="https://github.com/lachesk1">
     <img height="1080" src="https://github-readme-stats.vercel.app/api?username=lachesk1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
